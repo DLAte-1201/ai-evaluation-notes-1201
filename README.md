@@ -1,1 +1,2 @@
-# ai-evaluation-notes-1201
+# AI 응답 평가 루브릭
+- 준비중입니다.
