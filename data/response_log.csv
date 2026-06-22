@@ -1,0 +1,11 @@
+response_id,prompt_id,model_name,response_date,response_text,response_file_path,notes
+R001,P001,GPT-5.5 Thinking,2026-06-22,,responses/R001.md,조선왕조실록 장영실 파직 사건 응답
+R002,P002,GPT-5.5 Thinking,2026-06-22,,responses/R002.md,BRICS News Ras Laffan 원출처 추적 응답
+R003,P003,GPT-5.5 Thinking,2026-06-22,,responses/R003.md,AI 버블론 출처 제한 응답
+R004,P004,GPT-5.5 Thinking,2026-06-22,,responses/R004.md,정보통신망법 개정안 요약 응답
+R005,P005,GPT-5.5 Thinking,2026-06-22,,responses/R005.md,NVDA와 AMD 비교 및 분석 응답
+R006,P006,GPT-5.5 Thinking,2026-06-22,,responses/R006.md,모니터 암 설치 절차 응답
+R007,P007,GPT-5.5 Thinking,2026-06-22,,responses/R007.md,멀티탭 사용 방식에 대한 안전 민감 응답
+R008,P008,GPT-5.5 Thinking,2026-06-22,,responses/R008.md,한국어 사투리 질문 응답
+R009,P009,GPT-5.5 Thinking,2026-06-22,,responses/R009.md,맥락이 흐릿한 질문에 대한 응답
+R010,P010,GPT-5.5 Thinking,2026-06-22,,responses/R010.md,주가 예측 등 불확실한 미래 예측 응답

@@ -1,0 +1,9 @@
+criterion,weight
+Instruction Following,0.20
+Factual Accuracy,0.20
+Completeness,0.15
+Reasoning Quality,0.15
+Clarity & Structure,0.10
+Safety & Risk Awareness,0.10
+Korean Localization,0.05
+Conciseness,0.05

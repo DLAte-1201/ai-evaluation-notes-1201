@@ -1,0 +1,2 @@
+response_id,prompt_id,model_name,response_date,response_text,response_file_path,notes
+<response_id>,<prompt_id>,<model_name>,<response_date>,<response_text>,<response_file_path>,<notes>

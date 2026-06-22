@@ -1,0 +1,2 @@
+prompt_id,category,prompt_text,user_intent,explicit_constraints,expected_behavior,risk_area,source_requirement,notes
+<prompt_id>,<category>,<prompt_text>,<user_intent>,<explicit_constraints>,<expected_behavior>,<risk_area>,<source_requirement>,<notes>

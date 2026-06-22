@@ -1,0 +1,2 @@
+evaluation_id,response_id,prompt_id,instruction_following,factual_accuracy,completeness,reasoning_quality,clarity_structure,safety_risk_awareness,korean_localization,conciseness,defect_tags,severity,overall_judgment,evaluator_notes,improvement_suggestion
+<evaluation_id>,<response_id>,<prompt_id>,,,,,,,,,<defect_tags>,<severity>,<overall_judgment>,<evaluator_notes>,<improvement_suggestion>
